@@ -18,6 +18,10 @@ Adversarial risk and the dangers of evaluating against weak attacks[[paper](http
 Improving black-box adversarial attacks with a transfer-based prior[[paper](https://arxiv.org/pdf/1906.06919.pdf)][[code](https://github.com/prior-guided-rgf/Prior-Guided-RGF)](NIPS2019)   
 NATTACK: Learning the Distributions of Adversarial Examples for an Improved Black-Box Attack on Deep Neural Networks[[paper](https://arxiv.org/pdf/1905.00441.pdf)] [[code](https://github.com/Cold-Winter/Nattack)](ICML2019)   
 ## Decision-based Black-box Attacks
+Decision-based adversarial attacks: Reliable attacks against black-box machine learning models.[[paper](https://arxiv.org/pdf/1712.04248.pdf)] [[code](https://github.com/greentfrapp/boundary-attack)](ICLR2018)    
+Query-Efficient Hard-label Black-box Attack: An Optimization-based Approach[[paper](https://arxiv.org/pdf/1807.04457.pdf)](ICLR2019)  
+Efficient decision-based blackbox adversarial attacks on face recognition[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Dong_Efficient_Decision-Based_Black-Box_Adversarial_Attacks_on_Face_Recognition_CVPR_2019_paper.pdf)](CVPR2019)
+
 
 
 
