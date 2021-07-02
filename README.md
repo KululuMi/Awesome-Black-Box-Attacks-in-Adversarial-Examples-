@@ -22,6 +22,10 @@ Decision-based adversarial attacks: Reliable attacks against black-box machine l
 Query-Efficient Hard-label Black-box Attack: An Optimization-based Approach[[paper](https://arxiv.org/pdf/1807.04457.pdf)](ICLR2019)  
 Efficient decision-based blackbox adversarial attacks on face recognition[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Dong_Efficient_Decision-Based_Black-Box_Adversarial_Attacks_on_Face_Recognition_CVPR_2019_paper.pdf)](CVPR2019)
 
+## CVPR2021
+Over-the-Air Adversarial Flickering Attacks against Video Recognition Networks[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Pony_Over-the-Air_Adversarial_Flickering_Attacks_Against_Video_Recognition_Networks_CVPR_2021_paper.pdf)](White-box)    
+
+
 
 
 
